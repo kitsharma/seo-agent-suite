@@ -1,0 +1,565 @@
+2025-03-17 14:17:29,935 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:17:29,936 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:17:29,936 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: technical_audit with 1 steps
+2025-03-17 14:18:01,379 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow technical_audit completed in 31.44 seconds
+2025-03-17 14:23:03,817 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:23:03,817 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:23:03,862 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.94:5000
+2025-03-17 14:23:03,863 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 14:23:03,869 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 14:23:04,441 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:23:04,441 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:23:04,450 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 14:23:04,454 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 14:23:18,277 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:18] "GET / HTTP/1.1" 200 -
+2025-03-17 14:23:18,976 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:18] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_Laz HTTP/1.1[0m" 404 -
+2025-03-17 14:23:19,354 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 14:23:19,788 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_Lnf HTTP/1.1[0m" 404 -
+2025-03-17 14:23:21,416 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:21] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_M6G HTTP/1.1[0m" 404 -
+2025-03-17 14:23:24,127 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:24] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_MrS HTTP/1.1[0m" 404 -
+2025-03-17 14:23:29,461 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:29] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_O3t HTTP/1.1[0m" 404 -
+2025-03-17 14:23:34,466 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:34] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_PN0 HTTP/1.1[0m" 404 -
+2025-03-17 14:23:39,781 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:39] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_QbF HTTP/1.1[0m" 404 -
+2025-03-17 14:23:44,790 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_RuI HTTP/1.1[0m" 404 -
+2025-03-17 14:23:50,103 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_T6W HTTP/1.1[0m" 404 -
+2025-03-17 14:23:55,120 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_UPi HTTP/1.1[0m" 404 -
+2025-03-17 14:23:58,626 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:58] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 14:23:58,890 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:23:58] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_VHk HTTP/1.1[0m" 404 -
+2025-03-17 14:24:00,055 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:00] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_Vcq HTTP/1.1[0m" 404 -
+2025-03-17 14:24:02,911 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_WEf HTTP/1.1[0m" 404 -
+2025-03-17 14:24:07,211 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_XMc HTTP/1.1[0m" 404 -
+2025-03-17 14:24:12,526 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:12] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_Yar HTTP/1.1[0m" 404 -
+2025-03-17 14:24:17,535 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:17] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_Ztx HTTP/1.1[0m" 404 -
+2025-03-17 14:24:22,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_b6M HTTP/1.1[0m" 404 -
+2025-03-17 14:24:27,877 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:27] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_cPY HTTP/1.1[0m" 404 -
+2025-03-17 14:24:33,184 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:33] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_ddl HTTP/1.1[0m" 404 -
+2025-03-17 14:24:37,597 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: comprehensive_seo with 4 steps
+2025-03-17 14:24:38,508 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_ewn HTTP/1.1[0m" 404 -
+2025-03-17 14:24:43,838 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_gE5 HTTP/1.1[0m" 404 -
+2025-03-17 14:24:49,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_hXG HTTP/1.1[0m" 404 -
+2025-03-17 14:24:54,490 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_iqT HTTP/1.1[0m" 404 -
+2025-03-17 14:24:59,805 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:24:59] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_k7a HTTP/1.1[0m" 404 -
+2025-03-17 14:25:05,131 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:05] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_lQp HTTP/1.1[0m" 404 -
+2025-03-17 14:25:10,445 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:10] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_mju HTTP/1.1[0m" 404 -
+2025-03-17 14:25:15,773 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:15] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_o14 HTTP/1.1[0m" 404 -
+2025-03-17 14:25:21,091 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:21] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_pK9 HTTP/1.1[0m" 404 -
+2025-03-17 14:25:26,414 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_qdM HTTP/1.1[0m" 404 -
+2025-03-17 14:25:31,734 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_rwO HTTP/1.1[0m" 404 -
+2025-03-17 14:25:37,060 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:37] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_tDh HTTP/1.1[0m" 404 -
+2025-03-17 14:25:42,382 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:42] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_uWu HTTP/1.1[0m" 404 -
+2025-03-17 14:25:44,427 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_v0s HTTP/1.1[0m" 404 -
+2025-03-17 14:25:45,612 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:45] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_vO9 HTTP/1.1[0m" 404 -
+2025-03-17 14:25:48,666 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:48] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_w37 HTTP/1.1[0m" 404 -
+2025-03-17 14:25:52,119 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:52] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_wzp HTTP/1.1[0m" 404 -
+2025-03-17 14:25:52,941 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:52] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 14:25:53,203 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:53] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_xBo HTTP/1.1[0m" 404 -
+2025-03-17 14:25:54,579 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_xaG HTTP/1.1[0m" 404 -
+2025-03-17 14:25:57,405 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:25:57] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_yBb HTTP/1.1[0m" 404 -
+2025-03-17 14:26:02,421 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_zUo HTTP/1.1[0m" 404 -
+2025-03-17 14:26:07,750 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMb_-j8 HTTP/1.1[0m" 404 -
+2025-03-17 14:26:12,758 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:12] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc000K HTTP/1.1[0m" 404 -
+2025-03-17 14:26:18,080 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:18] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc01Ee HTTP/1.1[0m" 404 -
+2025-03-17 14:26:23,855 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:23] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc02ji HTTP/1.1[0m" 404 -
+2025-03-17 14:26:30,177 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:30] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc04Bd HTTP/1.1[0m" 404 -
+2025-03-17 14:26:35,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:35] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc05fI HTTP/1.1[0m" 404 -
+2025-03-17 14:26:37,806 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow comprehensive_seo completed in 120.21 seconds
+2025-03-17 14:26:37,808 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:37] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 14:26:42,178 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:42] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0775 HTTP/1.1[0m" 404 -
+2025-03-17 14:26:47,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:47] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc08ar HTTP/1.1[0m" 404 -
+2025-03-17 14:26:54,164 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0A2R HTTP/1.1[0m" 404 -
+2025-03-17 14:26:59,867 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:26:59] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0BWO HTTP/1.1[0m" 404 -
+2025-03-17 14:27:06,164 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:06] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Czy HTTP/1.1[0m" 404 -
+2025-03-17 14:27:11,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:11] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0ERm HTTP/1.1[0m" 404 -
+2025-03-17 14:27:17,848 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:17] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Fpm HTTP/1.1[0m" 404 -
+2025-03-17 14:27:22,869 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0H7i HTTP/1.1[0m" 404 -
+2025-03-17 14:27:28,192 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:28] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0IM7 HTTP/1.1[0m" 404 -
+2025-03-17 14:27:33,867 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:33] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Jpd HTTP/1.1[0m" 404 -
+2025-03-17 14:27:40,175 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:40] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0LHN HTTP/1.1[0m" 404 -
+2025-03-17 14:27:45,871 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:45] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Ml8 HTTP/1.1[0m" 404 -
+2025-03-17 14:27:51,191 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0NzT HTTP/1.1[0m" 404 -
+2025-03-17 14:27:56,200 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:27:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0PGa HTTP/1.1[0m" 404 -
+2025-03-17 14:28:01,523 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0QUw HTTP/1.1[0m" 404 -
+2025-03-17 14:28:06,538 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:06] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Ro7 HTTP/1.1[0m" 404 -
+2025-03-17 14:28:12,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:12] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0T5H HTTP/1.1[0m" 404 -
+2025-03-17 14:28:17,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:17] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0UYv HTTP/1.1[0m" 404 -
+2025-03-17 14:28:24,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:24] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0W0r HTTP/1.1[0m" 404 -
+2025-03-17 14:28:29,185 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:29] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0XJ- HTTP/1.1[0m" 404 -
+2025-03-17 14:28:34,503 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:34] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0YYE HTTP/1.1[0m" 404 -
+2025-03-17 14:28:39,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:39] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0Zwh HTTP/1.1[0m" 404 -
+2025-03-17 14:28:46,162 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:46] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0bOP HTTP/1.1[0m" 404 -
+2025-03-17 14:28:51,175 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0chS HTTP/1.1[0m" 404 -
+2025-03-17 14:28:56,492 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:28:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0dvo HTTP/1.1[0m" 404 -
+2025-03-17 14:29:01,501 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0fCw HTTP/1.1[0m" 404 -
+2025-03-17 14:29:06,821 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:06] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0gRC HTTP/1.1[0m" 404 -
+2025-03-17 14:29:11,826 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:11] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0hkF HTTP/1.1[0m" 404 -
+2025-03-17 14:29:12,572 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: comprehensive_seo with 4 steps
+2025-03-17 14:29:16,841 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:16] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0iyb HTTP/1.1[0m" 404 -
+2025-03-17 14:29:22,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0kB1 HTTP/1.1[0m" 404 -
+2025-03-17 14:29:27,499 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:27] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0lUM HTTP/1.1[0m" 404 -
+2025-03-17 14:29:32,814 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:32] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0mnN HTTP/1.1[0m" 404 -
+2025-03-17 14:29:38,132 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0o4Q HTTP/1.1[0m" 404 -
+2025-03-17 14:29:43,461 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0pNh HTTP/1.1[0m" 404 -
+2025-03-17 14:29:48,775 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:48] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0qgm HTTP/1.1[0m" 404 -
+2025-03-17 14:29:54,103 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0rzy HTTP/1.1[0m" 404 -
+2025-03-17 14:29:59,413 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:29:59] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0tH3 HTTP/1.1[0m" 404 -
+2025-03-17 14:30:04,735 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:04] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0ua6 HTTP/1.1[0m" 404 -
+2025-03-17 14:30:10,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:10] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0vv2 HTTP/1.1[0m" 404 -
+2025-03-17 14:30:16,159 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:16] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0xMj HTTP/1.1[0m" 404 -
+2025-03-17 14:30:22,170 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0yqd HTTP/1.1[0m" 404 -
+2025-03-17 14:30:28,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:28] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0-IH HTTP/1.1[0m" 404 -
+2025-03-17 14:30:33,489 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:33] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc0_bK HTTP/1.1[0m" 404 -
+2025-03-17 14:30:38,815 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc10ud HTTP/1.1[0m" 404 -
+2025-03-17 14:30:44,131 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc12Bg HTTP/1.1[0m" 404 -
+2025-03-17 14:30:49,452 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc13Ul HTTP/1.1[0m" 404 -
+2025-03-17 14:30:51,491 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:51] "GET / HTTP/1.1" 200 -
+2025-03-17 14:30:51,910 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc145F HTTP/1.1[0m" 404 -
+2025-03-17 14:30:52,501 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:52] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc14JI HTTP/1.1[0m" 404 -
+2025-03-17 14:30:54,537 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc14kK HTTP/1.1[0m" 404 -
+2025-03-17 14:30:59,547 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:30:59] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc161O HTTP/1.1[0m" 404 -
+2025-03-17 14:31:04,870 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:04] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc17Fk HTTP/1.1[0m" 404 -
+2025-03-17 14:31:09,889 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:09] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc18Y- HTTP/1.1[0m" 404 -
+2025-03-17 14:31:15,213 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:15] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc19nN HTTP/1.1[0m" 404 -
+2025-03-17 14:31:15,480 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:15] "GET /workflow/custom HTTP/1.1" 200 -
+2025-03-17 14:31:15,588 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:15] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc19xY HTTP/1.1[0m" 404 -
+2025-03-17 14:31:16,997 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:16] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1AI2 HTTP/1.1[0m" 404 -
+2025-03-17 14:31:18,466 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:18] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1AaA HTTP/1.1[0m" 404 -
+2025-03-17 14:31:22,052 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1BX1 HTTP/1.1[0m" 404 -
+2025-03-17 14:31:27,373 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:27] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1ClE HTTP/1.1[0m" 404 -
+2025-03-17 14:31:30,111 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:30] "GET / HTTP/1.1" 200 -
+2025-03-17 14:31:30,498 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:30] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1DW8 HTTP/1.1[0m" 404 -
+2025-03-17 14:31:31,467 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow comprehensive_seo completed in 138.89 seconds
+2025-03-17 14:31:31,477 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:31] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 14:31:31,782 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1Dv3 HTTP/1.1[0m" 404 -
+2025-03-17 14:31:33,699 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:33] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1EI7 HTTP/1.1[0m" 404 -
+2025-03-17 14:31:38,357 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:31:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1FVo HTTP/1.1[0m" 404 -
+2025-03-17 14:32:42,743 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:32:42,743 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:32:42,759 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.94:5000
+2025-03-17 14:32:42,760 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 14:32:42,763 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 14:32:43,312 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:32:43,312 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:32:43,320 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 14:32:43,325 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 14:32:43,340 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:43] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 14:32:43,500 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1VPf HTTP/1.1[0m" 404 -
+2025-03-17 14:32:45,021 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:45] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1Vib HTTP/1.1[0m" 404 -
+2025-03-17 14:32:46,545 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:46] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1W9E HTTP/1.1[0m" 404 -
+2025-03-17 14:32:49,180 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1Wja HTTP/1.1[0m" 404 -
+2025-03-17 14:32:54,195 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1Y0m HTTP/1.1[0m" 404 -
+2025-03-17 14:32:59,523 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:32:59] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1ZF9 HTTP/1.1[0m" 404 -
+2025-03-17 14:33:03,093 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: comprehensive_seo with 4 steps
+2025-03-17 14:33:04,838 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:04] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1aYG HTTP/1.1[0m" 404 -
+2025-03-17 14:33:10,178 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:10] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1bre HTTP/1.1[0m" 404 -
+2025-03-17 14:33:16,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:16] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1dJC HTTP/1.1[0m" 404 -
+2025-03-17 14:33:22,175 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1en7 HTTP/1.1[0m" 404 -
+2025-03-17 14:33:28,165 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:28] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1gEj HTTP/1.1[0m" 404 -
+2025-03-17 14:33:34,176 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:34] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1hiS HTTP/1.1[0m" 404 -
+2025-03-17 14:33:40,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:40] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1jAK HTTP/1.1[0m" 404 -
+2025-03-17 14:33:46,162 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:46] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1kdy HTTP/1.1[0m" 404 -
+2025-03-17 14:33:52,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:52] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1m5q HTTP/1.1[0m" 404 -
+2025-03-17 14:33:58,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:33:58] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1nZR HTTP/1.1[0m" 404 -
+2025-03-17 14:34:04,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:04] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1p1D HTTP/1.1[0m" 404 -
+2025-03-17 14:34:10,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:10] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1qUy HTTP/1.1[0m" 404 -
+2025-03-17 14:34:16,159 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:16] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1ryf HTTP/1.1[0m" 404 -
+2025-03-17 14:34:22,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:22] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1tQW HTTP/1.1[0m" 404 -
+2025-03-17 14:34:25,474 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:25] "GET / HTTP/1.1" 200 -
+2025-03-17 14:34:25,871 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1uKU HTTP/1.1[0m" 404 -
+2025-03-17 14:34:26,943 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1ufx HTTP/1.1[0m" 404 -
+2025-03-17 14:34:30,238 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:30] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1vOa HTTP/1.1[0m" 404 -
+2025-03-17 14:34:34,638 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:34] "GET /download/d63a5329-f2ea-4aaa-acfe-8de953267807 HTTP/1.1" 200 -
+2025-03-17 14:34:35,275 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:35] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1wdK HTTP/1.1[0m" 404 -
+2025-03-17 14:34:40,285 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:40] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1xwQ HTTP/1.1[0m" 404 -
+2025-03-17 14:34:41,126 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:41] "GET /results/d63a5329-f2ea-4aaa-acfe-8de953267807 HTTP/1.1" 200 -
+2025-03-17 14:34:41,395 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:41] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1y8W HTTP/1.1[0m" 404 -
+2025-03-17 14:34:42,389 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:42] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1yRI HTTP/1.1[0m" 404 -
+2025-03-17 14:34:45,434 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:45] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1z60 HTTP/1.1[0m" 404 -
+2025-03-17 14:34:49,422 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1-9B HTTP/1.1[0m" 404 -
+2025-03-17 14:34:49,857 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:49] "GET / HTTP/1.1" 200 -
+2025-03-17 14:34:50,119 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1-Gw HTTP/1.1[0m" 404 -
+2025-03-17 14:34:51,484 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1-fP HTTP/1.1[0m" 404 -
+2025-03-17 14:34:54,602 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1_LB HTTP/1.1[0m" 404 -
+2025-03-17 14:34:56,934 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:34:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc1_-Z HTTP/1.1[0m" 404 -
+2025-03-17 14:35:02,246 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc21Cm HTTP/1.1[0m" 404 -
+2025-03-17 14:35:07,252 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc22Vn HTTP/1.1[0m" 404 -
+2025-03-17 14:35:11,778 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:11] "GET /workflow/technical_audit HTTP/1.1" 200 -
+2025-03-17 14:35:12,042 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:12] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc23dW HTTP/1.1[0m" 404 -
+2025-03-17 14:35:13,314 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:13] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc23-V HTTP/1.1[0m" 404 -
+2025-03-17 14:35:15,036 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:15] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc24Ka HTTP/1.1[0m" 404 -
+2025-03-17 14:35:17,496 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow comprehensive_seo completed in 134.40 seconds
+2025-03-17 14:35:17,498 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:17] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 14:35:19,691 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc25Y8 HTTP/1.1[0m" 404 -
+2025-03-17 14:35:25,009 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc26mQ HTTP/1.1[0m" 404 -
+2025-03-17 14:35:25,103 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: technical_audit with 1 steps
+2025-03-17 14:35:30,023 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:30] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc283a HTTP/1.1[0m" 404 -
+2025-03-17 14:35:35,346 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:35] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc29Hv HTTP/1.1[0m" 404 -
+2025-03-17 14:35:40,668 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:40] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2Ab2 HTTP/1.1[0m" 404 -
+2025-03-17 14:35:45,990 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:45] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2BuC HTTP/1.1[0m" 404 -
+2025-03-17 14:35:51,314 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2DBP HTTP/1.1[0m" 404 -
+2025-03-17 14:35:57,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:35:57] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2Ecv HTTP/1.1[0m" 404 -
+2025-03-17 14:36:03,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:03] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2G4d HTTP/1.1[0m" 404 -
+2025-03-17 14:36:09,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:09] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2HYU HTTP/1.1[0m" 404 -
+2025-03-17 14:36:15,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:15] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2J0F HTTP/1.1[0m" 404 -
+2025-03-17 14:36:20,180 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow technical_audit completed in 55.08 seconds
+2025-03-17 14:36:20,182 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:20] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 14:36:20,497 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:20] "GET /results/65c78793-eeab-43fc-97a3-669e60b88d58 HTTP/1.1" 200 -
+2025-03-17 14:36:20,757 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:20] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2KQ1 HTTP/1.1[0m" 404 -
+2025-03-17 14:36:21,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:21] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2Kjd HTTP/1.1[0m" 404 -
+2025-03-17 14:36:24,176 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:24] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2LCu HTTP/1.1[0m" 404 -
+2025-03-17 14:36:29,857 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:29] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2MgU HTTP/1.1[0m" 404 -
+2025-03-17 14:36:36,161 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:36] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2O8C HTTP/1.1[0m" 404 -
+2025-03-17 14:36:41,858 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:41] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2Pb- HTTP/1.1[0m" 404 -
+2025-03-17 14:36:48,180 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:48] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2R3t HTTP/1.1[0m" 404 -
+2025-03-17 14:36:53,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:36:53] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2SXR HTTP/1.1[0m" 404 -
+2025-03-17 14:37:00,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:00] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2T_J HTTP/1.1[0m" 404 -
+2025-03-17 14:37:05,855 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:05] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2VSy HTTP/1.1[0m" 404 -
+2025-03-17 14:37:12,176 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:12] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2Wwq HTTP/1.1[0m" 404 -
+2025-03-17 14:37:17,856 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:17] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2YOS HTTP/1.1[0m" 404 -
+2025-03-17 14:37:24,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:24] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2ZsL HTTP/1.1[0m" 404 -
+2025-03-17 14:37:29,857 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:29] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2bJ- HTTP/1.1[0m" 404 -
+2025-03-17 14:37:36,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:36] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2cns HTTP/1.1[0m" 404 -
+2025-03-17 14:37:41,853 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:41] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2eFQ HTTP/1.1[0m" 404 -
+2025-03-17 14:37:48,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:48] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2fjH HTTP/1.1[0m" 404 -
+2025-03-17 14:37:50,125 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:50] "GET / HTTP/1.1" 200 -
+2025-03-17 14:37:50,498 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2gHm HTTP/1.1[0m" 404 -
+2025-03-17 14:37:51,457 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:51] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2gbU HTTP/1.1[0m" 404 -
+2025-03-17 14:37:54,114 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:54] "GET /results/ff829a96-d8c4-474e-9d3f-fa8c72dc5628 HTTP/1.1" 200 -
+2025-03-17 14:37:54,187 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:54] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2hG8 HTTP/1.1[0m" 404 -
+2025-03-17 14:37:55,565 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2hbg HTTP/1.1[0m" 404 -
+2025-03-17 14:37:56,675 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:37:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2hs_ HTTP/1.1[0m" 404 -
+2025-03-17 14:38:00,525 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:00] "GET / HTTP/1.1" 200 -
+2025-03-17 14:38:00,775 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:00] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2iq7 HTTP/1.1[0m" 404 -
+2025-03-17 14:38:01,579 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2j3f HTTP/1.1[0m" 404 -
+2025-03-17 14:38:03,433 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:03] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2jRg HTTP/1.1[0m" 404 -
+2025-03-17 14:38:08,441 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2kks HTTP/1.1[0m" 404 -
+2025-03-17 14:38:14,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2m3X HTTP/1.1[0m" 404 -
+2025-03-17 14:38:19,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2nXJ HTTP/1.1[0m" 404 -
+2025-03-17 14:38:26,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2o-y HTTP/1.1[0m" 404 -
+2025-03-17 14:38:31,868 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2qSv HTTP/1.1[0m" 404 -
+2025-03-17 14:38:38,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2rwW HTTP/1.1[0m" 404 -
+2025-03-17 14:38:43,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2tOH HTTP/1.1[0m" 404 -
+2025-03-17 14:38:50,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2us2 HTTP/1.1[0m" 404 -
+2025-03-17 14:38:55,856 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:38:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2wJj HTTP/1.1[0m" 404 -
+2025-03-17 14:39:02,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2xnb HTTP/1.1[0m" 404 -
+2025-03-17 14:39:07,865 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2zFM HTTP/1.1[0m" 404 -
+2025-03-17 14:39:14,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc2-i_ HTTP/1.1[0m" 404 -
+2025-03-17 14:39:19,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc30As HTTP/1.1[0m" 404 -
+2025-03-17 14:39:26,162 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc31eR HTTP/1.1[0m" 404 -
+2025-03-17 14:39:31,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc336I HTTP/1.1[0m" 404 -
+2025-03-17 14:39:38,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc34Zz HTTP/1.1[0m" 404 -
+2025-03-17 14:39:43,867 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc361u HTTP/1.1[0m" 404 -
+2025-03-17 14:39:50,174 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc37Vc HTTP/1.1[0m" 404 -
+2025-03-17 14:39:55,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:39:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc38zG HTTP/1.1[0m" 404 -
+2025-03-17 14:40:02,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3AR3 HTTP/1.1[0m" 404 -
+2025-03-17 14:40:07,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3Buu HTTP/1.1[0m" 404 -
+2025-03-17 14:40:14,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3DMP HTTP/1.1[0m" 404 -
+2025-03-17 14:40:19,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3EqF HTTP/1.1[0m" 404 -
+2025-03-17 14:40:26,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3GI2 HTTP/1.1[0m" 404 -
+2025-03-17 14:40:31,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3Hlo HTTP/1.1[0m" 404 -
+2025-03-17 14:40:38,228 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3JDV HTTP/1.1[0m" 404 -
+2025-03-17 14:40:43,855 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3KhB HTTP/1.1[0m" 404 -
+2025-03-17 14:40:50,170 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3M92 HTTP/1.1[0m" 404 -
+2025-03-17 14:40:55,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:40:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3Nch HTTP/1.1[0m" 404 -
+2025-03-17 14:41:02,176 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3P4d HTTP/1.1[0m" 404 -
+2025-03-17 14:41:07,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3QYB HTTP/1.1[0m" 404 -
+2025-03-17 14:41:14,195 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3R_x HTTP/1.1[0m" 404 -
+2025-03-17 14:41:19,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3TTr HTTP/1.1[0m" 404 -
+2025-03-17 14:41:26,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3UxZ HTTP/1.1[0m" 404 -
+2025-03-17 14:41:31,867 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3WPO HTTP/1.1[0m" 404 -
+2025-03-17 14:41:38,211 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3Xtg HTTP/1.1[0m" 404 -
+2025-03-17 14:41:43,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3ZKm HTTP/1.1[0m" 404 -
+2025-03-17 14:41:50,161 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3aoO HTTP/1.1[0m" 404 -
+2025-03-17 14:41:55,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:41:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3cGB HTTP/1.1[0m" 404 -
+2025-03-17 14:42:02,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3dk1 HTTP/1.1[0m" 404 -
+2025-03-17 14:42:07,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3fBm HTTP/1.1[0m" 404 -
+2025-03-17 14:42:14,166 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3gfR HTTP/1.1[0m" 404 -
+2025-03-17 14:42:19,862 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3i7J HTTP/1.1[0m" 404 -
+2025-03-17 14:42:26,166 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3ja_ HTTP/1.1[0m" 404 -
+2025-03-17 14:42:31,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3l2m HTTP/1.1[0m" 404 -
+2025-03-17 14:42:38,174 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3mWX HTTP/1.1[0m" 404 -
+2025-03-17 14:42:43,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3n-N HTTP/1.1[0m" 404 -
+2025-03-17 14:42:50,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3pS1 HTTP/1.1[0m" 404 -
+2025-03-17 14:42:55,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:42:55] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3qvm HTTP/1.1[0m" 404 -
+2025-03-17 14:43:02,174 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3sNX HTTP/1.1[0m" 404 -
+2025-03-17 14:43:07,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3trN HTTP/1.1[0m" 404 -
+2025-03-17 14:43:14,165 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3vI- HTTP/1.1[0m" 404 -
+2025-03-17 14:43:19,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:19] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3wmr HTTP/1.1[0m" 404 -
+2025-03-17 14:43:26,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:26] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3yET HTTP/1.1[0m" 404 -
+2025-03-17 14:43:31,855 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:31] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3ziC HTTP/1.1[0m" 404 -
+2025-03-17 14:43:38,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:38] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc3_A2 HTTP/1.1[0m" 404 -
+2025-03-17 14:43:43,860 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:43] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc40dn HTTP/1.1[0m" 404 -
+2025-03-17 14:43:50,171 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:50] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc425Y HTTP/1.1[0m" 404 -
+2025-03-17 14:43:56,177 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:43:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc43ZO HTTP/1.1[0m" 404 -
+2025-03-17 14:44:01,863 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4514 HTTP/1.1[0m" 404 -
+2025-03-17 14:44:08,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc46Uo HTTP/1.1[0m" 404 -
+2025-03-17 14:44:13,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:13] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc47ya HTTP/1.1[0m" 404 -
+2025-03-17 14:44:20,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:20] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc49QH HTTP/1.1[0m" 404 -
+2025-03-17 14:44:25,858 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4At_ HTTP/1.1[0m" 404 -
+2025-03-17 14:44:32,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:32] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4CLk HTTP/1.1[0m" 404 -
+2025-03-17 14:44:37,862 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:37] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4DpZ HTTP/1.1[0m" 404 -
+2025-03-17 14:44:44,178 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4FHN HTTP/1.1[0m" 404 -
+2025-03-17 14:44:49,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4Gkx HTTP/1.1[0m" 404 -
+2025-03-17 14:44:56,170 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:44:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4ICo HTTP/1.1[0m" 404 -
+2025-03-17 14:45:01,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4JgR HTTP/1.1[0m" 404 -
+2025-03-17 14:45:08,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4L8G HTTP/1.1[0m" 404 -
+2025-03-17 14:45:13,854 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:13] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4Mbw HTTP/1.1[0m" 404 -
+2025-03-17 14:45:20,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:20] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4O3k HTTP/1.1[0m" 404 -
+2025-03-17 14:45:25,853 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4PXP HTTP/1.1[0m" 404 -
+2025-03-17 14:45:32,168 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:32] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4Q_G HTTP/1.1[0m" 404 -
+2025-03-17 14:45:37,856 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:37] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4SSz HTTP/1.1[0m" 404 -
+2025-03-17 14:45:44,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4Twp HTTP/1.1[0m" 404 -
+2025-03-17 14:45:49,863 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4VOa HTTP/1.1[0m" 404 -
+2025-03-17 14:45:56,177 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:45:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4WsO HTTP/1.1[0m" 404 -
+2025-03-17 14:46:01,856 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4YJy HTTP/1.1[0m" 404 -
+2025-03-17 14:46:08,179 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4Znt HTTP/1.1[0m" 404 -
+2025-03-17 14:46:13,864 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:13] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4bFb HTTP/1.1[0m" 404 -
+2025-03-17 14:46:20,173 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:20] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4cjK HTTP/1.1[0m" 404 -
+2025-03-17 14:46:25,861 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4eB2 HTTP/1.1[0m" 404 -
+2025-03-17 14:46:32,170 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:32] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4fen HTTP/1.1[0m" 404 -
+2025-03-17 14:46:37,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:37] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4h6W HTTP/1.1[0m" 404 -
+2025-03-17 14:46:44,175 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4iaJ HTTP/1.1[0m" 404 -
+2025-03-17 14:46:49,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:49] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4k20 HTTP/1.1[0m" 404 -
+2025-03-17 14:46:56,169 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:46:56] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4lVm HTTP/1.1[0m" 404 -
+2025-03-17 14:47:01,866 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:01] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4mzd HTTP/1.1[0m" 404 -
+2025-03-17 14:47:08,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4oRJ HTTP/1.1[0m" 404 -
+2025-03-17 14:47:13,867 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:13] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4pv8 HTTP/1.1[0m" 404 -
+2025-03-17 14:47:20,163 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:20] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4rMj HTTP/1.1[0m" 404 -
+2025-03-17 14:47:25,863 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:25] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4sqZ HTTP/1.1[0m" 404 -
+2025-03-17 14:47:32,172 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:47:32] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4uIM HTTP/1.1[0m" 404 -
+2025-03-17 14:48:01,708 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:48:01,709 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:48:01,725 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.94:5000
+2025-03-17 14:48:01,726 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 14:48:01,729 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 14:48:02,278 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:48:02,279 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:48:02,288 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 14:48:02,292 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 14:48:02,300 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:48:02] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc4_d2 HTTP/1.1[0m" 404 -
+2025-03-17 14:48:07,868 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:48:07] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc514u HTTP/1.1[0m" 404 -
+2025-03-17 14:48:14,170 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:48:14] "[33mGET /socket.io/?EIO=4&transport=polling&t=PMc52YX HTTP/1.1[0m" 404 -
+2025-03-17 14:56:58,800 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:56:58,800 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:56:58,816 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.50.94:8080
+2025-03-17 14:56:58,817 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 14:56:58,819 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 14:56:59,369 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 14:56:59,369 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 14:56:59,377 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 14:56:59,382 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 14:57:05,023 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:57:05] "GET / HTTP/1.1" 200 -
+2025-03-17 14:57:05,797 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:57:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 14:57:25,226 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:57:25] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 14:57:38,738 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: comprehensive_seo with 4 steps
+2025-03-17 14:57:58,497 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:57:58] "GET / HTTP/1.1" 200 -
+2025-03-17 14:58:09,930 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:58:09] "GET /results/65c78793-eeab-43fc-97a3-669e60b88d58 HTTP/1.1" 200 -
+2025-03-17 14:58:12,964 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:58:12] "GET / HTTP/1.1" 200 -
+2025-03-17 14:59:26,370 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:59:26] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 14:59:26,634 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:59:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 14:59:30,047 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:59:30] "GET / HTTP/1.1" 200 -
+2025-03-17 14:59:36,393 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:59:36] "GET /workflow/technical_audit HTTP/1.1" 200 -
+2025-03-17 14:59:39,662 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow comprehensive_seo completed in 120.92 seconds
+2025-03-17 14:59:39,663 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 14:59:39] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 14:59:49,911 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: technical_audit with 1 steps
+2025-03-17 15:00:31,821 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow technical_audit completed in 41.91 seconds
+2025-03-17 15:00:31,823 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:00:31] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 15:00:32,150 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:00:32] "GET /results/400b7288-969c-4453-9148-ef07ca6391ba HTTP/1.1" 200 -
+2025-03-17 15:07:40,216 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:07:40] "GET / HTTP/1.1" 200 -
+2025-03-17 15:12:50,434 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:12:50] "GET /results/65c78793-eeab-43fc-97a3-669e60b88d58 HTTP/1.1" 200 -
+2025-03-17 15:12:55,099 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:12:55] "GET / HTTP/1.1" 200 -
+2025-03-17 15:13:01,382 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:13:01] "GET / HTTP/1.1" 200 -
+2025-03-17 15:13:10,042 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:13:10] "GET / HTTP/1.1" 200 -
+2025-03-17 15:13:11,716 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:13:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 15:14:24,848 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:14:24] "GET / HTTP/1.1" 200 -
+2025-03-17 15:19:16,136 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 15:19:27,617 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:19:27,618 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:21:18,717 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:21:18,718 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:21:18,734 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.50.94:8080
+2025-03-17 15:21:18,735 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 15:21:18,738 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:21:19,289 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:21:19,289 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:21:19,298 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 15:21:19,302 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 15:21:28,997 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:21:28] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-17 15:21:37,426 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:21:37] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-17 15:27:14,483 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 15:27:14,519 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:27:15,110 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:27:15,110 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:27:15,120 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 15:27:15,124 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 15:27:33,915 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:27:33,916 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:27:33,939 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://192.168.50.94:8082
+2025-03-17 15:27:33,939 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 15:27:33,943 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:27:34,532 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:27:34,532 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:27:34,542 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 15:27:34,546 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 15:27:46,745 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:27:46] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-17 15:27:46,798 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:27:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 15:27:50,957 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:27:50] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-17 15:28:07,000 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:28:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-17 15:28:07,253 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:28:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 15:29:44,621 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 15:29:44,657 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:29:44,977 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 15:29:45,016 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:29:45,233 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:29:45,234 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:29:45,607 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:29:45,607 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:30:16,668 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:30:16,668 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:36:45,434 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:36:45,434 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:36:45,451 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://192.168.50.94:8082
+2025-03-17 15:36:45,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 15:36:45,454 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:36:46,006 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:36:46,007 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:36:46,015 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 15:36:46,020 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 15:36:56,286 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:36:56] "GET / HTTP/1.1" 200 -
+2025-03-17 15:37:04,363 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:37:04] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 15:37:25,909 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:37:25] "GET / HTTP/1.1" 200 -
+2025-03-17 15:38:05,717 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:38:05] "GET /workflow/technical_audit HTTP/1.1" 200 -
+2025-03-17 15:41:24,714 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:41:24] "GET / HTTP/1.1" 200 -
+2025-03-17 15:41:29,329 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:41:29] "GET / HTTP/1.1" 200 -
+2025-03-17 15:41:31,433 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:41:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 15:41:31,681 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:41:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 15:43:48,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 15:43:48,508 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 15:43:49,113 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:43:49,114 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:45:27,079 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:45:27,080 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 15:47:42,339 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 15:47:42,340 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:10:18,405 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:10:18,405 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:19:17,949 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:19:17,949 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:20:56,659 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:20:56,659 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:22:11,170 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:22:11,171 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:24:20,501 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:24:20,501 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:24:20,516 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8082
+2025-03-17 16:24:20,516 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:24:20,519 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 16:24:21,074 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:24:21,075 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:24:21,083 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 16:24:21,087 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 16:25:01,707 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:01] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:25:01,984 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:01] "GET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-17 16:25:02,068 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:02] "GET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-17 16:25:02,121 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:02] "GET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-17 16:25:02,441 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:02] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:25:17,696 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:17] "GET / HTTP/1.1" 200 -
+2025-03-17 16:25:25,859 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:25] "GET /results/400b7288-969c-4453-9148-ef07ca6391ba HTTP/1.1" 200 -
+2025-03-17 16:25:32,410 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:32] "GET / HTTP/1.1" 200 -
+2025-03-17 16:25:38,295 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:38] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:25:38,556 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:38] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 16:25:38,650 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:38] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 16:25:38,678 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:25:38] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:27:04,243 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:27:04] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:27:04,501 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:27:04] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 16:27:04,642 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:27:04] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 16:27:04,668 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:27:04] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:29:18,666 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:18] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:29:18,911 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:18] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 16:29:18,988 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:18] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 16:29:19,014 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:19] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:29:19,346 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:19] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:29:20,600 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:20] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:29:20,923 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:20] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 16:29:20,923 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:20] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 16:29:21,187 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:21] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:29:21,263 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:21] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:29:25,045 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:25] "[35m[1mGET /workflow/technical_audit HTTP/1.1[0m" 500 -
+2025-03-17 16:29:25,401 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:25] "GET /workflow/technical_audit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-17 16:29:25,401 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:25] "GET /workflow/technical_audit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-17 16:29:25,668 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:25] "GET /workflow/technical_audit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-17 16:29:25,744 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:29:25] "[36mGET /workflow/technical_audit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:32:34,470 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:32:34,471 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:32:34,485 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8082
+2025-03-17 16:32:34,485 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:32:34,488 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 16:32:35,058 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:32:35,058 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:32:35,067 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 16:32:35,071 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 16:32:51,401 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:32:51] "GET / HTTP/1.1" 200 -
+2025-03-17 16:32:54,151 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:32:54] "[35m[1mGET /workflow/comprehensive_seo HTTP/1.1[0m" 500 -
+2025-03-17 16:32:54,502 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:32:54] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 16:32:54,503 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:32:54] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 16:32:54,750 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:32:54] "[36mGET /workflow/comprehensive_seo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 16:34:54,458 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 16:34:54,628 - werkzeug - INFO -  * Detected change in 'C:\\Users\\kitsh\\Dev\\claude-seo-project\\claude-seo-workflow\\app.py', reloading
+2025-03-17 16:34:54,686 - werkzeug - INFO -  * Restarting with stat
+2025-03-17 16:34:55,408 - ClaudeSEOWorkflowOrchestrator - INFO - Registering Claude SEO agents...
+2025-03-17 16:34:55,408 - ClaudeSEOWorkflowOrchestrator - INFO - All agents registered successfully
+2025-03-17 16:34:55,417 - werkzeug - WARNING -  * Debugger is active!
+2025-03-17 16:34:55,422 - werkzeug - INFO -  * Debugger PIN: 660-977-255
+2025-03-17 16:35:09,060 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:35:09] "GET /workflow/comprehensive_seo HTTP/1.1" 200 -
+2025-03-17 16:35:09,348 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:35:09] "GET /static/img/logo.png HTTP/1.1" 200 -
+2025-03-17 16:35:51,093 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: comprehensive_seo with 4 steps
+2025-03-17 16:37:42,613 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow comprehensive_seo completed in 111.52 seconds
+2025-03-17 16:37:42,614 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:37:42] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 16:37:42,946 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:37:42] "GET /results/a8a5a28d-161f-404c-aacb-9b5187dd3a68 HTTP/1.1" 200 -
+2025-03-17 16:37:43,201 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:37:43] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-17 16:46:59,354 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:46:59] "GET / HTTP/1.1" 200 -
+2025-03-17 16:46:59,612 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:46:59] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-17 16:47:30,748 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:47:30] "GET /results/a8a5a28d-161f-404c-aacb-9b5187dd3a68 HTTP/1.1" 200 -
+2025-03-17 16:47:31,167 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:47:31] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-17 16:47:33,825 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:47:33] "GET /download/a8a5a28d-161f-404c-aacb-9b5187dd3a68 HTTP/1.1" 200 -
+2025-03-17 16:56:10,724 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:56:10] "GET / HTTP/1.1" 200 -
+2025-03-17 16:56:10,988 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:56:10] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-17 16:57:21,831 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:57:21] "GET /workflow/content_creation HTTP/1.1" 200 -
+2025-03-17 16:57:22,094 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:57:22] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-17 16:57:32,026 - ClaudeSEOWorkflowOrchestrator - INFO - Starting workflow: content_creation with 3 steps
+2025-03-17 16:59:35,263 - ClaudeSEOWorkflowOrchestrator - INFO - Workflow content_creation completed in 123.24 seconds
+2025-03-17 16:59:35,265 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:59:35] "POST /start_workflow HTTP/1.1" 200 -
+2025-03-17 16:59:35,593 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:59:35] "GET /results/57de5ff2-c402-4f84-9af3-cfcea8e25e2b HTTP/1.1" 200 -
+2025-03-17 16:59:35,855 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 16:59:35] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-18 08:42:40,009 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:42:40] "GET /results/57de5ff2-c402-4f84-9af3-cfcea8e25e2b HTTP/1.1" 200 -
+2025-03-18 08:42:40,249 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:42:40] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-18 08:42:45,927 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:42:45] "GET / HTTP/1.1" 200 -
+2025-03-18 08:42:46,276 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:42:46] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-18 08:43:01,849 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:01] "GET /results/57de5ff2-c402-4f84-9af3-cfcea8e25e2b HTTP/1.1" 200 -
+2025-03-18 08:43:02,232 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:02] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-18 08:43:08,172 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:08] "GET / HTTP/1.1" 200 -
+2025-03-18 08:43:08,540 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:08] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -
+2025-03-18 08:43:25,609 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:25] "GET /workflow/technical_audit HTTP/1.1" 200 -
+2025-03-18 08:43:25,985 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 08:43:25] "[36mGET /static/img/logo.png HTTP/1.1[0m" 304 -

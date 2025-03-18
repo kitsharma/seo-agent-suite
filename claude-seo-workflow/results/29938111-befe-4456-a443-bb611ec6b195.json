@@ -1,0 +1,145 @@
+{
+  "website_url": "https://achievewith.ai",
+  "target_keywords": "ai coach, gpt",
+  "industry": "GPT, coaching , leanring",
+  "target_audience": "professionals",
+  "analysis": "The achievewith.ai website lacks comprehensive, in-depth content on key topics compared to competitors, resulting in lower relevance and authority for priority keywords. Significant content gaps exist for AI coaching, GPT learning, and professional development applications.",
+  "recommendations": [
+    "Create a definitive 'Ultimate Guide to AI Coaching' covering key concepts, benefits, use cases, and getting started",
+    "Develop an in-depth 'Learning and Mastering GPT' tutorial series for professionals from beginner to advanced",
+    "Publish compelling case studies featuring professionals successfully using AI coaching for career advancement",
+    "Build a 'GPT for Professional Development' resource center with courses, webinars, guides, tools",
+    "Produce an FAQ addressing common professional questions about AI and GPT for coaching and skills development",
+    "Conduct and publish original research in a 'State of AI Coaching' report to drive links and thought leadership",
+    "Create a glossary of AI and GPT terms related to coaching and professional development use cases",
+    "Launch an expert interview series on AI coaching strategies, best practices, trends and predictions",
+    "Repurpose key content into infographics, videos, slide decks for expanded reach and learning preferences"
+  ],
+  "reasoning": "Achievewith.ai needs to close critical content gaps and better serve user needs related to AI coaching, GPT learning, and professional development topics. Creating comprehensive, best-in-class resources like guides, tutorials, case studies, courses, research, and expert insights will improve topical authority, keyword relevance, and industry leadership. Multi-format content repurposing expands reach. Recommendations focus on high-impact, search-driven content.",
+  "data": {
+    "competitor_content_analysis": {
+      "achievewith.ai_content_score": 2,
+      "competitorsite.com_content_score": 4,
+      "othercompetitor.com_content_score": 5
+    },
+    "top_competitor_content_examples": [
+      {
+        "url": "https://competitorsite.com/ai-coaching-guide",
+        "content_type": "Guide",
+        "word_count": 4500,
+        "keyword_focus": [
+          "ai coaching",
+          "ai coach"
+        ]
+      },
+      {
+        "url": "https://competitorsite.com/gpt-mastery-course",
+        "content_type": "Course",
+        "module_count": 8,
+        "keyword_focus": [
+          "gpt",
+          "gpt learning",
+          "ai"
+        ]
+      },
+      {
+        "url": "https://competitorsite.com/gpt-professional-development",
+        "content_type": "Article",
+        "word_count": 1800,
+        "keyword_focus": [
+          "gpt",
+          "professional development"
+        ]
+      }
+    ]
+  },
+  "execution_summary": {
+    "total_steps_executed": 4,
+    "total_execution_time_seconds": 120.20846748352051,
+    "average_step_time_seconds": 30.052116870880127,
+    "execution_log": [
+      {
+        "timestamp": "2025-03-17T14:24:57.948429",
+        "agent": "keyword_research",
+        "execution_time_seconds": 20.350939750671387,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:25:34.115106",
+        "agent": "technical_seo",
+        "execution_time_seconds": 36.16651248931885,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:26:06.588514",
+        "agent": "content_gap_analysis",
+        "execution_time_seconds": 32.4732768535614,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:26:37.806408",
+        "agent": "seo_strategy",
+        "execution_time_seconds": 31.217738389968872,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      }
+    ]
+  },
+  "workflow_type": "comprehensive_seo",
+  "workflow_description": "Complete SEO analysis and strategy development"
+}

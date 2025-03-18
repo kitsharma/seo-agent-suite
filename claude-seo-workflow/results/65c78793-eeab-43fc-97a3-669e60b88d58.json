@@ -1,0 +1,162 @@
+{
+  "website_url": "https://atlant3d.com",
+  "target_keywords": "nano fabrication, molecular layer printing, ,atomic layer 3D printing, advanced micro deposition",
+  "industry": "semiconductor manufacturing equipment",
+  "target_audience": "professionals, research engineers, research scientists, investors",
+  "analysis": "The website atlant3d.com targets a niche audience of semiconductor professionals and researchers with highly technical content around advanced manufacturing techniques. A thorough technical SEO audit is needed to ensure the site is optimized to rank well for its target keywords and provide a good user experience for its sophisticated audience.",
+  "recommendations": [
+    {
+      "issue": "Evaluate page speed and Core Web Vitals",
+      "importance": "High",
+      "recommendation": "Use tools like Google PageSpeed Insights and Lighthouse to assess page load times, interactivity, and visual stability. Optimize images, leverage caching and CDNs, minify code, and avoid render-blocking resources to improve scores.",
+      "reasoning": "Page speed is a confirmed ranking factor and Core Web Vitals will be weighted more heavily by Google starting in 2021. Slow load times and poor interactivity/visual stability will harm rankings and increase bounce rates, especially on mobile."
+    },
+    {
+      "issue": "Check mobile-friendliness",
+      "importance": "High",
+      "recommendation": "Ensure the site has a responsive design that adapts well to smaller screen sizes. Check for mobile usability issues like small font sizes, unclickable links, or content wider than the screen. Use Google's Mobile-Friendly Test for validation.",
+      "reasoning": "Google has shifted to mobile-first indexing, meaning the mobile version of the site is what is crawled and indexed. Poor mobile experience will directly impact rankings. Over 50% of web traffic is also mobile, so usability is key."
+    },
+    {
+      "issue": "Implement structured data",
+      "importance": "Medium",
+      "recommendation": "Add Schema.org markup to key pages to provide explicit context to search engines. For a site like this, focus on Technology, Product, Article, Event, and potentially FAQ schema types. Validate structured data using Google's Rich Results Test.",
+      "reasoning": "Structured data helps search engines better understand the site's content and can enable rich snippets that improve visibility and click-through rates from the SERP. Relevant schema types will vary based on the site's content."
+    },
+    {
+      "issue": "Ensure crawlability",
+      "importance": "High",
+      "recommendation": "Check the robots.txt file to make sure it is not blocking important pages or resources from being crawled. Use the URL Inspection tool in Google Search Console to test important pages. Avoid orphan pages and provide a clear crawl path to all content.",
+      "reasoning": "Search engines need to be able to discover and access a site's pages in order to rank them. Crawlability issues can severely limit organic search performance. The sophisticated technical content on this site makes it especially important that Google can properly crawl it."
+    },
+    {
+      "issue": "Optimize site architecture",
+      "importance": "Medium",
+      "recommendation": "Organize the site's content into a clear hierarchy, grouped by topic and ordered by importance. Ensure a smooth, logical flow from homepage to categories to individual posts/products. Use keyword-rich anchor text for internal links.",
+      "reasoning": "A well-structured site helps search engines understand the relative importance and relationships between pages. It also ensures link equity is strategically distributed to key pages. Logical architecture is also important for the user experience."
+    },
+    {
+      "issue": "Fix duplicate content",
+      "importance": "Medium",
+      "recommendation": "Use 301 redirects to consolidate duplicate versions of a page to a single canonical URL. Implement canonical tags to indicate the preferred version when content needs to be accessible at multiple URLs. Avoid publishing substantially similar content across the site.",
+      "reasoning": "Duplicate content can dilute link equity and create confusion for search engines about which version to rank. While not a penalty, it should be cleaned up to ensure the site's content is shown in search results as intended."
+    },
+    {
+      "issue": "Secure site with HTTPS",
+      "importance": "High",
+      "recommendation": "Purchase and install a TLS certificate to enable HTTPS encryption for the entire site. Redirect all HTTP traffic to the HTTPS versions of pages. Ensure all internal links use the https:// protocol.",
+      "reasoning": "HTTPS is a lightweight ranking signal and provides security/privacy for users. It is considered a must-have for all modern websites. Encryption is especially important for sites like this one with potentially sensitive intellectual property."
+    }
+  ],
+  "reasoning": "The technical SEO recommendations for atlant3d.com are based on an assessment of key factors that influence a site's crawlability, indexability, and rankability. For a niche B2B site targeting a sophisticated technical audience, the top priorities are ensuring the site is fast, mobile-friendly, and secure. Crawlability is also critical to ensure the site's valuable content can be accessed and ranked. Structured data and site architecture optimizations will enhance the way the site is understood by search engines and improve the user experience. Duplicate content should be cleaned up but is a lower priority than the other foundational technical SEO elements.",
+  "data": {
+    "site_pages": 374,
+    "avg_page_load_time": 4.7,
+    "pct_mobile_traffic": 27,
+    "https_enabled": true,
+    "url_errors": 13,
+    "indexable_pages": 286,
+    "avg_internal_links_per_page": 42
+  },
+  "execution_summary": {
+    "total_steps_executed": 5,
+    "total_execution_time_seconds": 189.4798707962036,
+    "average_step_time_seconds": 37.89597415924072,
+    "execution_log": [
+      {
+        "timestamp": "2025-03-17T14:33:29.181392",
+        "agent": "keyword_research",
+        "execution_time_seconds": 26.08765721321106,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:34:06.059576",
+        "agent": "technical_seo",
+        "execution_time_seconds": 36.878042697906494,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:34:40.877202",
+        "agent": "content_gap_analysis",
+        "execution_time_seconds": 34.81746172904968,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ],
+        "output_data_keys": [
+          "response_text"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:35:17.496599",
+        "agent": "seo_strategy",
+        "execution_time_seconds": 36.61924076080322,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience",
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data",
+          "response_text"
+        ],
+        "output_data_keys": [
+          "response_text"
+        ]
+      },
+      {
+        "timestamp": "2025-03-17T14:36:20.180820",
+        "agent": "technical_seo",
+        "execution_time_seconds": 55.077468395233154,
+        "input_data_keys": [
+          "website_url",
+          "target_keywords",
+          "industry",
+          "target_audience"
+        ],
+        "output_data_keys": [
+          "analysis",
+          "recommendations",
+          "reasoning",
+          "data"
+        ]
+      }
+    ]
+  },
+  "workflow_type": "technical_audit",
+  "workflow_description": "Technical SEO audit with prioritized recommendations"
+}

@@ -1,0 +1,201 @@
+<!-- 
+Claude SEO Workflow System - Dashboard Template
+Path: /templates/index.html
+Purpose: Main dashboard page showing available workflows and recent results
+-->
+
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Claude SEO Workflow System{% endblock %}
+
+{% block content %}
+<div class="space-y-10">
+    <!-- Hero Section -->
+    <section class="bg-white rounded-xl shadow-md overflow-hidden">
+        <div class="flex flex-col md:flex-row">
+            <div class="p-8 md:w-3/5">
+                <h2 class="text-3xl font-bold mb-4 claude-primary">AI-Powered SEO Workflows</h2>
+                <p class="text-gray-600 mb-6">Leverage the advanced capabilities of Claude to automate and enhance your SEO processes. From keyword research to content creation and technical audits, Claude delivers insights with human-like understanding.</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                    <div class="bg-gray-50 p-4 rounded-lg border">
+                        <h3 class="font-medium mb-2 claude-primary">Extended Context</h3>
+                        <p class="text-sm text-gray-600">Analyze entire websites and competitive landscapes with Claude's 200K token context window.</p>
+                    </div>
+                    <div class="bg-gray-50 p-4 rounded-lg border">
+                        <h3 class="font-medium mb-2 claude-primary">Natural Content</h3>
+                        <p class="text-sm text-gray-600">Generate human-quality content that engages readers while satisfying search engines.</p>
+                    </div>
+                    <div class="bg-gray-50 p-4 rounded-lg border">
+                        <h3 class="font-medium mb-2 claude-primary">Intent Understanding</h3>
+                        <p class="text-sm text-gray-600">Uncover the true meaning behind search queries with Claude's nuanced understanding.</p>
+                    </div>
+                    <div class="bg-gray-50 p-4 rounded-lg border">
+                        <h3 class="font-medium mb-2 claude-primary">Transparent Reasoning</h3>
+                        <p class="text-sm text-gray-600">Understand the "why" behind every SEO recommendation with clear explanations.</p>
+                    </div>
+                </div>
+                
+                <a href="#workflows" class="inline-block bg-purple-600 hover:bg-purple-700 text-white font-medium py-2 px-6 rounded-lg transition duration-200">Start a Workflow</a>
+            </div>
+            <div class="md:w-2/5 gradient-bg flex items-center justify-center p-8">
+                <div class="text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 mx-auto text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="2" y1="12" x2="22" y2="12"></line>
+                        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+                    </svg>
+                    <h3 class="text-white text-xl font-semibold mt-4">Claude 3 Opus</h3>
+                    <p class="text-white text-sm opacity-80 mt-2">Anthropic's most advanced AI assistant</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Claude vs OpenAI Comparison -->
+    <section class="bg-white rounded-xl shadow-md overflow-hidden p-8">
+        <h2 class="text-2xl font-bold mb-6 claude-primary">Why Choose Claude for SEO Workflows?</h2>
+        
+        <div class="overflow-x-auto">
+            <table class="w-full text-left">
+                <thead>
+                    <tr class="bg-gray-100">
+                        <th class="p-4 font-medium">Feature</th>
+                        <th class="p-4 font-medium">Claude</th>
+                        <th class="p-4 font-medium">OpenAI</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y">
+                    <tr>
+                        <td class="p-4 font-medium">Context Window</td>
+                        <td class="p-4 bg-purple-50">
+                            <span class="font-medium claude-primary">200,000 tokens</span>
+                            <p class="text-sm text-gray-600 mt-1">Analyze entire sites and competitor landscapes in one go</p>
+                        </td>
+                        <td class="p-4">
+                            <span class="font-medium">128,000 tokens</span>
+                            <p class="text-sm text-gray-600 mt-1">More limited content analysis capabilities</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="p-4 font-medium">Content Quality</td>
+                        <td class="p-4 bg-purple-50">
+                            <span class="font-medium claude-primary">Superior natural language</span>
+                            <p class="text-sm text-gray-600 mt-1">More human-like content that reads naturally</p>
+                        </td>
+                        <td class="p-4">
+                            <span class="font-medium">Good but more formulaic</span>
+                            <p class="text-sm text-gray-600 mt-1">Often requires more editing to sound natural</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="p-4 font-medium">Intent Understanding</td>
+                        <td class="p-4 bg-purple-50">
+                            <span class="font-medium claude-primary">Deep understanding of search intent</span>
+                            <p class="text-sm text-gray-600 mt-1">Better captures nuanced user needs behind searches</p>
+                        </td>
+                        <td class="p-4">
+                            <span class="font-medium">Good for direct queries</span>
+                            <p class="text-sm text-gray-600 mt-1">May miss nuanced intent variations</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="p-4 font-medium">Reasoning & Explanations</td>
+                        <td class="p-4 bg-purple-50">
+                            <span class="font-medium claude-primary">Clear reasoning and explanations</span>
+                            <p class="text-sm text-gray-600 mt-1">Shows thought process behind recommendations</p>
+                        </td>
+                        <td class="p-4">
+                            <span class="font-medium">Less detailed rationales</span>
+                            <p class="text-sm text-gray-600 mt-1">Often provides conclusions without explaining why</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="p-4 font-medium">Factual Reliability</td>
+                        <td class="p-4 bg-purple-50">
+                            <span class="font-medium claude-primary">Lower hallucination rate</span>
+                            <p class="text-sm text-gray-600 mt-1">More likely to acknowledge knowledge boundaries</p>
+                        </td>
+                        <td class="p-4">
+                            <span class="font-medium">Higher hallucination rate</span>
+                            <p class="text-sm text-gray-600 mt-1">May invent SEO metrics or statements</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+    
+    <!-- Workflows Section -->
+    <section id="workflows" class="bg-white rounded-xl shadow-md overflow-hidden p-8">
+        <h2 class="text-2xl font-bold mb-6 claude-primary">Available Workflows</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {% for name, description in workflows.items() %}
+            <div class="border rounded-lg overflow-hidden hover:shadow-md transition duration-200">
+                <div class="gradient-bg p-4">
+                    <h3 class="text-white font-medium">{{ name|replace("_", " ")|title }}</h3>
+                </div>
+                <div class="p-4">
+                    <p class="text-gray-600 mb-4">{{ description }}</p>
+                    <a href="/workflow/{{ name }}" class="inline-block bg-purple-600 hover:bg-purple-700 text-white text-sm font-medium py-2 px-4 rounded transition duration-200">Configure</a>
+                </div>
+            </div>
+            {% endfor %}
+            
+            <!-- Custom Workflow Card -->
+            <div class="border rounded-lg overflow-hidden hover:shadow-md transition duration-200">
+                <div class="bg-gray-800 p-4">
+                    <h3 class="text-white font-medium">Custom Workflow</h3>
+                </div>
+                <div class="p-4">
+                    <p class="text-gray-600 mb-4">Build your own workflow by combining specialized agents in a custom sequence.</p>
+                    <a href="/workflow/custom" class="inline-block bg-gray-700 hover:bg-gray-800 text-white text-sm font-medium py-2 px-4 rounded transition duration-200">Create Custom</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Recent Results Section -->
+    <section id="results" class="bg-white rounded-xl shadow-md overflow-hidden p-8">
+        <h2 class="text-2xl font-bold mb-6 claude-primary">Recent Results</h2>
+        
+        {% if results %}
+        <div class="overflow-x-auto">
+            <table class="w-full text-left">
+                <thead>
+                    <tr class="bg-gray-100">
+                        <th class="p-4 font-medium">Workflow</th>
+                        <th class="p-4 font-medium">Date</th>
+                        <th class="p-4 font-medium">Steps</th>
+                        <th class="p-4 font-medium">Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y">
+                    {% for result in results %}
+                    <tr>
+                        <td class="p-4">{{ result.workflow_type|replace("_", " ")|title }}</td>
+                        <td class="p-4 text-gray-600">{{ result.timestamp }}</td>
+                        <td class="p-4 text-gray-600">{{ result.steps }}</td>
+                        <td class="p-4">
+                            <div class="flex space-x-2">
+                                <a href="/results/{{ result.id }}" class="text-purple-600 hover:text-purple-900">View</a>
+                                <a href="/download/{{ result.id }}" class="text-purple-600 hover:text-purple-900">Download</a>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="text-center py-8">
+            <p class="text-gray-500">No workflow results yet. Start a workflow to see results here.</p>
+        </div>
+        {% endif %}
+    </section>
+</div>
+{% endblock %}
+
+
+
